@@ -22,9 +22,6 @@ Feel free to adjust any section to better suit your needs.
 ### Prerequisites
 
 - A Google account.
-- A Google Form to collect data.
-- A Google Drive folder to store reports.
-- A Google Docs template for the report.
 
 ### Configuration
 
